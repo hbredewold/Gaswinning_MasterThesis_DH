@@ -1,0 +1,1 @@
+This is the repository for the Thesis project 'Uncovering bots in the Groningen #gaswinning debate' by Harm Bredewold. This Thesis was written to complete the Masters Program Digital Humanities at the University of Groningen.
